@@ -14,6 +14,8 @@
 
 [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 
+[Front-End Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
+
 [现代 Web 开发](https://github.com/wxyyxc1992/Web-Series)
 
 [腾讯移动 Web 前端知识库](https://github.com/AlloyTeam/Mars)
@@ -22,6 +24,10 @@
 
 [前端娱乐圈大事记](https://github.com/YongHaoWu/qianduan-yule-club)
 
+[Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+
+[30 seconds of code](https://github.com/30-seconds/30-seconds-of-code)
+
 ## JavaScript
 
 [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6)
@@ -29,6 +35,22 @@
 [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 
 [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
+
+[JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+[You don't need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+
+## React
+
+[React in patterns](https://github.com/krasimir/react-in-patterns)
+
+## Vue's source code
+
+[Vue.js 源码解析](https://github.com/answershuto/learnVue)
+
+[Vue.js 源码分析](https://github.com/ustbhuangyi/vue-analysis)
+
+[vue-design](https://github.com/HcySunYang/vue-design)
 
 ## Node.js
 
@@ -50,11 +72,13 @@
 
 [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
 
+[Java Core Sprout](https://github.com/crossoverJie/JCSprout)
+
 ## Go
 
 [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 
-## docker
+## Docker
 
 [Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
 
@@ -68,17 +92,11 @@
 
 ## English
 
+[容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+
 [英语学习指南 ](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 
 [英语进阶指南](https://github.com/byoungd/English-level-up-tips-for-Chinese)
-
-## Vue's source code
-
-[Vue.js 源码解析](https://github.com/answershuto/learnVue)
-
-[Vue.js 源码分析](https://github.com/ustbhuangyi/vue-analysis)
-
-[vue-design](https://github.com/HcySunYang/vue-design)
 
 ## Blog
 
@@ -92,9 +110,9 @@
 
 ## Roadmap
 
-[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-
 [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+
+[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
 
@@ -117,4 +135,3 @@
 [编程中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 
 [快乐的 Linux 命令行](https://github.com/billie66/TLCL)
-
