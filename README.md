@@ -30,9 +30,11 @@
 
 ## JavaScript
 
-[Understanding ECMAScript 6](https://github.com/nzakas/understandinges6)
-
 [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
+[Understanding ECMAScript 6](https://github.com/nzakas/understandinges6)
 
 [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
