@@ -34,13 +34,13 @@
 
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+[ECMAScript 6 入门](https://github.com/ruanyf/es6tutorial)
+
 [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6)
 
 [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
-
-[You don't need Moment.js](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 
 ## React
 
