@@ -80,6 +80,12 @@
 
 [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 
+## Linux
+
+[快乐的 Linux 命令行](https://github.com/billie66/TLCL)
+
+[linux_tools](https://github.com/me115/linuxtools_rst)
+
 ## Docker
 
 [Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
@@ -135,5 +141,3 @@
 [Student Resources](https://github.com/ivmm/Student-resources)
 
 [编程中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
-
-[快乐的 Linux 命令行](https://github.com/billie66/TLCL)
