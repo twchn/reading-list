@@ -80,6 +80,9 @@
 
 [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 
+## Python
+[learn-more-python-the-hard-way-solutions](https://github.com/zedshaw/learn-more-python-the-hard-way-solutions)
+
 ## Linux
 
 [快乐的 Linux 命令行](https://github.com/billie66/TLCL)
