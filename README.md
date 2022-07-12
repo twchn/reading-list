@@ -84,6 +84,8 @@
 
 [learn-more-python-the-hard-way-solutions](https://github.com/zedshaw/learn-more-python-the-hard-way-solutions)
 
+[bfsutechlab-1week-python](https://github.com/Cr1s1/bfsutechlab-1week-python)
+
 ## Linux
 
 [快乐的 Linux 命令行](https://github.com/billie66/TLCL)
